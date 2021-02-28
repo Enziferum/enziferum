@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on rage engine & engine's tools 
+- 🌱 I’m currently learning c++17
 
 <!--
 **Enziferum/enziferum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
