@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on hko 2d game, sometimes on rage 'engine' tools 
+- 🔭 I’m currently working on hakka 2d 'engine', sometimes on rage 'engine' tools 
 - 🌱 I’m currently learning c++17
 
 <!--
