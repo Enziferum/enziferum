@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on robot2D 'engine', sometimes on rage 'engine' tools 
-- 🌱 I’m currently learning c++17
+- 🔭 I’m currently working on robot2D Engine
+- 🌱 I’m currently learning C++17/C++20
 
 <!--
 **Enziferum/enziferum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
